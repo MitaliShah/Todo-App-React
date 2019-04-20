@@ -20,12 +20,13 @@ class App extends React.Component {
     }   
 
     render(){
-        const todoItems = this.state.todos.map(item => <ToDoItem key={item.id}item={item}/>)
+        const todoItems = this.state.todos.map(item => <ToDoItem key={item.id}  item={item}/>)
+
             return(
-            <div className="todo-list">
-            {todoItems}
-            </div>
-        )
+                <div className="todo-list">
+                {todoItems}
+                </div>
+            )
     }
     
 }
