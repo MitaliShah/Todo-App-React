@@ -1,13 +1,13 @@
 {
-  "main.css": "/MitaliShah/Todo-App-React/static/css/main.6fb7cdd6.chunk.css",
-  "main.js": "/MitaliShah/Todo-App-React/static/js/main.6584d361.chunk.js",
-  "main.js.map": "/MitaliShah/Todo-App-React/static/js/main.6584d361.chunk.js.map",
-  "runtime~main.js": "/MitaliShah/Todo-App-React/static/js/runtime~main.677b4803.js",
-  "runtime~main.js.map": "/MitaliShah/Todo-App-React/static/js/runtime~main.677b4803.js.map",
-  "static/js/2.015ea03c.chunk.js": "/MitaliShah/Todo-App-React/static/js/2.015ea03c.chunk.js",
-  "static/js/2.015ea03c.chunk.js.map": "/MitaliShah/Todo-App-React/static/js/2.015ea03c.chunk.js.map",
-  "index.html": "/MitaliShah/Todo-App-React/index.html",
-  "precache-manifest.5e5da4a8df443b1aec723c376ecfe67f.js": "/MitaliShah/Todo-App-React/precache-manifest.5e5da4a8df443b1aec723c376ecfe67f.js",
-  "service-worker.js": "/MitaliShah/Todo-App-React/service-worker.js",
-  "static/css/main.6fb7cdd6.chunk.css.map": "/MitaliShah/Todo-App-React/static/css/main.6fb7cdd6.chunk.css.map"
+  "main.css": "/Todo-App-React/static/css/main.6fb7cdd6.chunk.css",
+  "main.js": "/Todo-App-React/static/js/main.6584d361.chunk.js",
+  "main.js.map": "/Todo-App-React/static/js/main.6584d361.chunk.js.map",
+  "runtime~main.js": "/Todo-App-React/static/js/runtime~main.9aab96a8.js",
+  "runtime~main.js.map": "/Todo-App-React/static/js/runtime~main.9aab96a8.js.map",
+  "static/js/2.015ea03c.chunk.js": "/Todo-App-React/static/js/2.015ea03c.chunk.js",
+  "static/js/2.015ea03c.chunk.js.map": "/Todo-App-React/static/js/2.015ea03c.chunk.js.map",
+  "index.html": "/Todo-App-React/index.html",
+  "precache-manifest.4e5f266e0fea10f7039fbcbb9453aca6.js": "/Todo-App-React/precache-manifest.4e5f266e0fea10f7039fbcbb9453aca6.js",
+  "service-worker.js": "/Todo-App-React/service-worker.js",
+  "static/css/main.6fb7cdd6.chunk.css.map": "/Todo-App-React/static/css/main.6fb7cdd6.chunk.css.map"
 }
